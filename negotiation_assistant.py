@@ -3,8 +3,8 @@ import requests
 import json
 
 # Set up your Azure OpenAI API key and endpoint
-api_key = "your-actual-api-key"  # Replace with your actual Azure OpenAI API key
-endpoint = "https://your-resource-name.openai.azure.com/"  # Replace with your actual Azure OpenAI endpoint
+api_key = "317f422043064f33a4f79728b04e0dc8"  # Replace with your actual Azure OpenAI API key
+endpoint = "https://rober-m2j78avb-eastus2.openai.azure.com/"  # Replace with your actual Azure OpenAI endpoint
 deployment_id = "gpt-4o-realtime-preview"  # Replace with your actual deployment ID
 api_version = "2024-10-01"  # Version for the GPT-4o-Realtime-Preview
 
